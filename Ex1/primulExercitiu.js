@@ -5,4 +5,4 @@ function returneazaListaCuNrPare(max){
 }
 
 //folosim exemplul 10
-nrPare(10);
+returneazaListaCuNrPar(10);
